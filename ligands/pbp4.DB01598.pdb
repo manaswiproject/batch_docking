@@ -1,0 +1,54 @@
+HEADER    PROTEIN                                 23-FEB-12   NONE
+TITLE     NULL                                                        
+COMPND    MOLECULE: 1598                                              
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   23-FEB-12         0                                  
+HETATM    1  S   UNK     0      11.118  -0.445   0.000  0.00  0.00           S+0
+HETATM    2  O   UNK     0       4.970   2.910   0.000  0.00  0.00           O+0
+HETATM    3  O   UNK     0       4.568  -2.312   0.000  0.00  0.00           O+0
+HETATM    4  O   UNK     0      10.655  -3.475   0.000  0.00  0.00           O+0
+HETATM    5  O   UNK     0       8.118  -4.299   0.000  0.00  0.00           O+0
+HETATM    6  N   UNK     0       7.208  -1.215   0.000  0.00  0.00           N+0
+HETATM    7  N   UNK     0      14.198   2.223   0.000  0.00  0.00           N+0
+HETATM    8  N   UNK     0      16.508   3.557   0.000  0.00  0.00           N+0
+HETATM    9  C   UNK     0       7.208   0.325   0.000  0.00  0.00           C+0
+HETATM   10  C   UNK     0       5.655   0.332   0.000  0.00  0.00           C+0
+HETATM   11  C   UNK     0       8.672   0.801   0.000  0.00  0.00           C+0
+HETATM   12  C   UNK     0       5.655  -1.221   0.000  0.00  0.00           C+0
+HETATM   13  C   UNK     0       4.568   1.423   0.000  0.00  0.00           C+0
+HETATM   14  C   UNK     0       8.672  -1.690   0.000  0.00  0.00           C+0
+HETATM   15  C   UNK     0       9.578  -0.445   0.000  0.00  0.00           C+0
+HETATM   16  C   UNK     0       3.080   1.027   0.000  0.00  0.00           C+0
+HETATM   17  C   UNK     0       9.148  -3.155   0.000  0.00  0.00           C+0
+HETATM   18  C   UNK     0      11.888   0.889   0.000  0.00  0.00           C+0
+HETATM   19  C   UNK     0      13.428   0.889   0.000  0.00  0.00           C+0
+HETATM   20  C   UNK     0      15.738   2.223   0.000  0.00  0.00           C+0
+HETATM   21  H   UNK     0       7.018   1.543   0.000  0.00  0.00           H+0
+HETATM   22  H   UNK     0       4.516  -0.139   0.000  0.00  0.00           H+0
+CONECT    1   15   18                                                       
+CONECT    2   13                                                            
+CONECT    3   12                                                            
+CONECT    4   17                                                            
+CONECT    5   17                                                            
+CONECT    6    9   12   14                                                  
+CONECT    7   19   20                                                       
+CONECT    8   20                                                            
+CONECT    9    6   10   11   21                                             
+CONECT   10    9   12   13   22                                             
+CONECT   11    9   15                                                       
+CONECT   12    3    6   10                                                  
+CONECT   13    2   10   16                                                  
+CONECT   14    6   15   17                                                  
+CONECT   15    1   11   14                                                  
+CONECT   16   13                                                            
+CONECT   17    4    5   14                                                  
+CONECT   18    1   19                                                       
+CONECT   19    7   18                                                       
+CONECT   20    7    8                                                       
+CONECT   21    9                                                            
+CONECT   22   10                                                            
+MASTER        0    0    0    0    0    0    0    0   22    0   46    0
+END
